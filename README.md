@@ -14,6 +14,8 @@
 
 ### The best WebSites
 
-- [Quizlet](https://quizlet.com/class/26476714/)
-- [Dictionary](https://www.oxfordlearnersdictionaries.com/)
-- [YouGlish](https://pt.youglish.com/ )
+<ul>
+    <li><a href="https://quizlet.com/class/26476714/" target="_blank">Quizlet</a></li>
+    <li><a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">Dictionary</a></li>
+    <li><a href="https://pt.youglish.com/" target="_blank">YouGlish</a></li>
+</ul>
