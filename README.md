@@ -10,6 +10,7 @@
 4. [Lesson (to have, to sleep)](Lessons/4-Lesson/README.md)
 5. [Lesson (to like, to go)](Lessons/5-Lesson/README.md)
 6. [Lesson (to love, to understand)](Lessons/6-Lesson/README.md)
+7. [Lesson (to prefer, to see)](Lessons/7-Lesson/README.md)
 
 
 ### The best WebSites
