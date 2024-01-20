@@ -27,7 +27,7 @@ skirt|🩲👙underwear
 - I have to go downtown.
 - How much is it ?
 
-## Gravar
+## Grammar
 - She doesn't like these shoes.
 - He doesn't want to wear those shorts.
 - He doesn't wear this uniform.
