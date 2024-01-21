@@ -21,10 +21,10 @@ skirt|🩲👙underwear
 👖pants|those
 
 ## Expressions
-- I'd like to try on this pair of pants.
+- I'd like to try on this pair of pants.  (try on é um verbo frasal)
 - What size do you wear?
 - Where is the fitting room?
-- I have to go downtown.
+- I have to go downtown.  (downtown não precisa de preposição)
 - How much is it ?
 
 ## Grammar
