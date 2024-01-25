@@ -15,10 +15,11 @@
 9. [Lesson (to work, to know)](Lessons/9-Lesson/README.md)
 
 
-### The best WebSites
+### The best Websites
 
 <ul>
     <li><a href="https://quizlet.com/class/26476714/" target="_blank">Quizlet</a></li>
     <li><a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">Dictionary</a></li>
     <li><a href="https://pt.youglish.com/" target="_blank">YouGlish</a></li>
+    <li><a href="https://www.letras.mus.br/">Letras</a></li>
 </ul>
