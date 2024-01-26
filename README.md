@@ -13,6 +13,7 @@
 7. [Lesson (to prefer, to see)](Lessons/7-Lesson/README.md)
 8. [Lesson (to buy, to wear)](Lessons/8-Lesson/README.md)
 9. [Lesson (to work, to know)](Lessons/9-Lesson/README.md)
+10. [Lesson (to sell, to read)](Lessons/10-Lesson/README.md)
 
 
 ### The best Websites
