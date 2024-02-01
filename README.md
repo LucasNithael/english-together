@@ -14,6 +14,7 @@
 8. [Lesson (to buy, to wear)](Lessons/08-Lesson/README.md)
 9. [Lesson (to work, to know)](Lessons/09-Lesson/README.md)
 10. [Lesson (to sell, to read)](Lessons/10-Lesson/README.md)
+11. [Lesson (to put, to clean)](Lessons/11-Lesson/README.md)
 
 
 ### The best Websites
