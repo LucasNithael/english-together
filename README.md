@@ -4,15 +4,15 @@
 </div>
 
 ### Lessons
-1. [Lesson (to speak, to study)](Lessons/1-Lesson/README.md)
-2. [Lesson (to eat, to drink)](Lessons/2-Lesson/README.md)
-3. [Lesson (to want, to play)](Lessons/3-Lesson/README.md)
-4. [Lesson (to have, to sleep)](Lessons/4-Lesson/README.md)
-5. [Lesson (to like, to go)](Lessons/5-Lesson/README.md)
-6. [Lesson (to love, to understand)](Lessons/6-Lesson/README.md)
-7. [Lesson (to prefer, to see)](Lessons/7-Lesson/README.md)
-8. [Lesson (to buy, to wear)](Lessons/8-Lesson/README.md)
-9. [Lesson (to work, to know)](Lessons/9-Lesson/README.md)
+1. [Lesson (to speak, to study)](Lessons/01-Lesson/README.md)
+2. [Lesson (to eat, to drink)](Lessons/02-Lesson/README.md)
+3. [Lesson (to want, to play)](Lessons/03-Lesson/README.md)
+4. [Lesson (to have, to sleep)](Lessons/04-Lesson/README.md)
+5. [Lesson (to like, to go)](Lessons/05-Lesson/README.md)
+6. [Lesson (to love, to understand)](Lessons/06-Lesson/README.md)
+7. [Lesson (to prefer, to see)](Lessons/07-Lesson/README.md)
+8. [Lesson (to buy, to wear)](Lessons/08-Lesson/README.md)
+9. [Lesson (to work, to know)](Lessons/09-Lesson/README.md)
 10. [Lesson (to sell, to read)](Lessons/10-Lesson/README.md)
 
 
