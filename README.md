@@ -16,6 +16,8 @@
 10. [Lesson (to sell, to read)](Lessons/10-Lesson/README.md)
 11. [Lesson (to put, to clean)](Lessons/11-Lesson/README.md)
 12. [Lesson (to live, to start)](Lessons/12-Lesson/README.md)
+12. [Lesson (to come, to stay)](Lessons/13-Lesson/README.md)
+12. [Lesson (to cook, to make)](Lessons/14-Lesson/README.md)
 
 
 ### The best Websites
